@@ -1,0 +1,14 @@
+@import 'colors';
+
+body{
+	color: $dark;
+}
+
+.logo{
+	background: url('./images/logo.png');    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    height: 233px;
+}
