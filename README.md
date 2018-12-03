@@ -36,4 +36,4 @@ npm run serve
 ```
 
 ## Changelog
-<a href="https://github.com/bigstepdenmark/webpack4-boilerplate/CHANGELOG.md">Go to Changelog</a>
+<a href="https://github.com/bigstepdenmark/webpack4-boilerplate/blob/master/CHANGELOG.md">Go to Changelog</a>
